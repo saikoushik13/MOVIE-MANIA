@@ -54,7 +54,6 @@ const  TvSeriesContainer = ()=>{
                     <Col className='col-12'>
                         <section>
                             <h1 className='txtCenter'>Top Trending TV Series</h1>
-                            <h3 className='txtCenter'> For You</h3>
                         </section>
                     </Col>
                 </Row>

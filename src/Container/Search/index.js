@@ -52,7 +52,6 @@ const  SearchContainer = ()=>{
                     <Col className='col-12'>
                         <section>
                             <h1 className='txtCenter'>Search Movies /  TV Series</h1>
-                            <h3 className='txtCenter'> For You</h3>
                             <SearchBarCardComponents 
                                 searchValue={searchValue}
                                 setSearchValue={(value)=>{setSearchValue(value)}}

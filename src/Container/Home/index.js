@@ -41,7 +41,6 @@ const  HomeContainer = ()=>{
                     <Col className='col-12'>
                         <section>
                             <h1 className='txtCenter'>Top Trending </h1>
-                            <h3 className='txtCenter'>Tv and Movie For You</h3>
                         </section>
                     </Col>
                     {
